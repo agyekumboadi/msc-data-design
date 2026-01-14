@@ -105,11 +105,11 @@ Tesco can:
 ## Project Structure
 
 msc-data-design/
-├── data/          # Survey dataset (CSV / Excel) or data description
-├── notebooks/     # Python / analysis notebooks (if applicable)
-├── reports/       # Arden Data Design essay and report (PDF)
-├── outputs/       # Charts, statistical results, Jamovi/Python outputs
-├── assets/        # Screenshots of surveys, figures used in report
+├── data/ # Survey dataset (CSV / Excel) or data description
+├── notebooks/ # Python / analysis notebooks (if applicable)
+├── reports/ # Arden Data Design essay and report (PDF)
+├── outputs/ # Charts, statistical results, Jamovi/Python outputs
+├── assets/ # Screenshots of surveys and figures used in report
 └── README.md
 
 ---
